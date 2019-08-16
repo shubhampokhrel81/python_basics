@@ -1,2 +1,2 @@
-# python_basics
+# python for Machine Learning
 Tunnel to Machine Learning
